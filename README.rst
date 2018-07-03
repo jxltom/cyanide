@@ -13,6 +13,13 @@
 .. contents::
     :local:
 
+Usage
+============
+
+- ```celery -A cyanide worker -c 1``` for running the worker first.
+
+- ```python -m cyanide.bin.cyanide``` for running the test suite.
+
 Introduction
 ============
 
